@@ -1,0 +1,12 @@
+{
+  "name": "Nebula API with Node.js",
+  "description": "A proof of concept of accessing Fleet Space Technologies Nebula platform.",
+  "repository": "https://github.com/fleetspace/nebula-node",
+  "logo": "https://avatars0.githubusercontent.com/u/44757217",
+  "keywords": [
+    "node",
+    "nebula",
+    "fleet",
+    "fleetspace"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "nebula-node",
+  "version": "0.0.1",
+  "description": "A proof of concept of accessing Fleet Space Technologies Nebula platform.",
+  "engines": {
+    "node": "9.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "request": "^2.88.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fleetspace/nebula-node"
+  },
+  "keywords": [
+    "node",
+    "nebula",
+    "fleet",
+    "fleetspace"
+  ],
+  "license": "MIT"
+}
